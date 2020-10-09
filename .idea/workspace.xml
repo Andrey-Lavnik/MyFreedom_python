@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58bac05e-a927-4047-a60d-a01116f4d331" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MyFreedom_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyFreedom_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFreedom/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyFreedom/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFreedom/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyFreedom/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstpage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstpage/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
