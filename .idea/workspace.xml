@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58bac05e-a927-4047-a60d-a01116f4d331" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firstpage/static/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firstpage/templates/firstpage/base.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firstpage/templates/firstpage/between1418.html" afterDir="false" />
